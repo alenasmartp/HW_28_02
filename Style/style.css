@@ -1,0 +1,45 @@
+* {
+  color: black;
+  font-size: 16px;
+  text-decoration: none;
+  /* padding: 3px;
+  margin: 3px; */
+}
+h1 {
+  font-size: 25px;
+}
+table {
+  color: black;
+  border: 2px solid gray;
+  /* border-collapse: collapse; */
+  text-align: center;
+}
+th, td {
+  border: 1px solid gray;
+  width: auto;
+}
+th {
+  font-size: 20px;
+}
+.img{
+  width: 40px;
+}
+.a1{
+  color: blue;
+}
+.a1:hover{
+  color: green;
+  text-decoration: underline;
+}
+.a2{
+  color: red;
+  text-decoration: underline;
+}
+.a2:hover{
+  color: blue;
+  text-decoration: line-through;
+}
+.a3:hover{
+   color: red;
+   text-decoration: overline;
+}
